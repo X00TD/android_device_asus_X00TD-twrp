@@ -1,0 +1,8 @@
+ro.product.brand=asus
+ro.product.name=X00TD
+ro.product.device=X00TD
+ro.build.product=X00TD
+ro.treble.enabled=true
+sys.usb.controller=a800000.dwc3
+sys.usb.rndis.func.name=rndis_bam
+sys.usb.rmnet.func.name=rmnet_bam
