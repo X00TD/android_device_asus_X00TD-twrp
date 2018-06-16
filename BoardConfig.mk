@@ -59,7 +59,7 @@ BOARD_RAMDISK_OFFSET := 0x01000000
 #TARGET_KERNEL_HEADER_ARCH := arm64
 #TARGET_KERNEL_SOURCE := kernel/asus/sdm660
 #TARGET_KERNEL_CONFIG := X00TD_defconfig
-TARGET_PREBUILT_KERNEL := device/asus/X00TD/prebuilt/Image.gz-dtb
+TARGET_PREBUILT_KERNEL := device/asus/ASUS_X00TD/prebuilt/Image.gz-dtb
 
 # Platform
 TARGET_BOARD_PLATFORM := sdm660
