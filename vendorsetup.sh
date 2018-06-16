@@ -1,2 +1,2 @@
-add_lunch_combo lineage_ASUS_X00TD-eng
-add_lunch_combo lineage_ASUS_X00TD-userdebug
+add_lunch_combo omni_ASUS_X00TD-eng
+add_lunch_combo omni_ASUS_X00TD-userdebug
